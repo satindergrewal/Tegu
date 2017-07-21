@@ -1,20 +1,25 @@
 {
-  "name": "electron-quick-start",
+  "name": "Tegu",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "BarterDEX and Jumblr App for SuperNET",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/electron/electron-quick-start",
+  "repository": "https://github.com/satindergrewal/Tegu",
   "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo"
+    "barterdex",
+    "jumblr",
+    "dex",
+    "atomicswaps",
+    "instantdex",
+    "easydex",
+    "bitcoin",
+    "nativedex",
+    "bitcoinmixer",
+    "bitcointumbler"
   ],
-  "author": "GitHub",
+  "author": "Satinderjit Singh",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "~1.6.2"
